@@ -22,6 +22,8 @@ segment -> TCP header + Data (TCP header에는 소스 포트와 목적지 포트
 네트워크 계층의 packet => IP header + segment
 ```
 
+![image](https://user-images.githubusercontent.com/13481627/92844672-13b5c880-f421-11ea-95bf-88a32dea2eb7.png)
+
 ### UDP
 
 신뢰성은 낮으나 데이터 전송이 빠르다,
